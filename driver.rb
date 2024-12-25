@@ -1,5 +1,5 @@
-require_relative 'food'
-require_relative 'animal'
+require_relative 'foods'
+require_relative 'animals'
 
 if ARGV.length != 2
   puts "Usage: ruby main.rb [dog|cat] [chicken|cat_food|dog_food|human_food|lemon|milk]"

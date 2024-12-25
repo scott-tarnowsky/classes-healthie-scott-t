@@ -1,4 +1,4 @@
-require_relative 'food'
+require_relative 'foods'
 
 class Animal
   def eat(food)
