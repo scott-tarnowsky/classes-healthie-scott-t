@@ -1,3 +1,5 @@
+require_relative 'food'
+
 class Animal
   def eat(food)
     if likes_food?(food)
