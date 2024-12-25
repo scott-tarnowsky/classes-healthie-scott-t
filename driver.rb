@@ -1,3 +1,8 @@
+# CD into the top level of the repo in your terminal
+# Run the command in the terminal
+# ruby driver.rb [dog|cat] [chicken|cat_food|dog_food|human_food|lemon|milk]"
+# Example: ruby driver.rb dog human_food
+
 require_relative 'foods'
 require_relative 'animals'
 
