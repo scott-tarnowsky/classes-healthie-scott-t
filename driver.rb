@@ -27,7 +27,7 @@ when "lemon"
 when "milk"
   Milk.new("milk")
 else
-  puts "Invalid food type"
+  puts "Invalid food type. Please choose chicken, cat_food, dog_food, human_food, lemon, milk"
   exit 1
 end
 
